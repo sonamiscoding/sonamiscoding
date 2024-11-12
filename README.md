@@ -19,10 +19,10 @@ I'm a **Team Lead of FullStack Specialization** and **Program Leader of Bachelor
 - **Programming for Enterprise Systems**
 - **Web Application Development**
 
-## 👨‍💻 Projects
-- **Parking.bt**: A comprehensive digital solution project focused on local community networking and engagement.
-- **DrukAir Heli Reservation System**: Developed a reservation system for DrukAir's helicopter services, enhancing customer booking experiences.
-- **Web Application of Pema by Realm**: Built and deployed a web application for Pema by Realm, a platform aimed at providing accessible mental health resources.
+## 👨‍💻 Projects Mentored
+- **Parking.bt**
+- **DrukAir Heli Reservation System**
+- **Web Application of Pema by Realm**: 
 
 ## 🎓 Education
 - **Master of Science in Information Technology**  
